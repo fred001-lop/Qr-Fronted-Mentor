@@ -4,7 +4,7 @@ Este es un proyecto sencillo basado en un reto de [Frontend Mentor](https://www.
 
 ## Vista previa
 
-![Vista previa del componente QR](https://github.com/user-attachments/assets/8e1a3445-473e-47a7-a6e6-0545345d2fa2)
+<img width="140" height="140" alt="Vista previa del componente QR" src="https://github.com/user-attachments/assets/8e1a3445-473e-47a7-a6e6-0545345d2fa2" />
 
 ## Tecnologías
 
