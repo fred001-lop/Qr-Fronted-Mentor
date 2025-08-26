@@ -84,6 +84,14 @@ body{
         font-size: 0.9rem;
     }
 }
+
+/*Diseño*/
+.attribution a:hover,
+.attribution a:focus {
+  text-decoration: underline;
+  color: hsl(228, 45%, 60%);
+}
+
 /*Media queries pantalla completa*/
 @media (min-width: 1024px){
     .decoration{
