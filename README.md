@@ -4,7 +4,7 @@ Este es un proyecto sencillo basado en un reto de [Frontend Mentor](https://www.
 
 ## Vista previa
 
-![QR Code](/images/image-qr-code.png)
+![QR Code](images/image-qr-code.png)
 
 ## Tecnologías
 
